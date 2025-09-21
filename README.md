@@ -127,9 +127,8 @@
 
 **📚 Key Coursework:** Data Structures • Algorithms • Database Management • Software Engineering • Operating Systems • Computer Networks  
 
-**🏅 Certifications & Achievements:**  
-- C++ Master Course (Coding Blocks, 2024)  
-- Dean’s List (Top 5% performance, 2023–Present)  
+**🏅 Certifications**  
+- C++ Master Course (Coding Blocks, 2024) 
 
 </div>
 
