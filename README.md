@@ -10,22 +10,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🚀 About Me
-
-```json
-{
-  "name": "Shreyansh Bapna",
-  "location": "India 🇮🇳",
-  "education": "Computer Science Engineering @ JECRC University",
-  "currentFocus": "Full Stack Development",
-  "techStack": ["JavaScript", "React", "Node.js", "MongoDB", "TypeScript"],
-  "currentlyLearning": ["Backend Architecture", "DevOps", "Cloud Computing"],
-  "2025Goals": ["Contribute to Open Source", "Build SaaS Products"],
-  "funFact": "I debug with console.log() and I'm proud of it! 😄"
-}
-```
 
 <br clear="both">
 
@@ -119,8 +103,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-bapna)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanshbapna@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyansh_bapna)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrey.code11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyansh_bapna/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://shreyanshbapna.github.io)
 
 </div>
