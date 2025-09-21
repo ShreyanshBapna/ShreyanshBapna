@@ -1,154 +1,127 @@
 <div align="center">
 
-# 👋 Hey there! I'm Shreyansh Bapna
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ShreyanshBapna&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/ShreyanshBapna)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyansh%20Bapna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=51&descAlign=50)
 
 </div>
 
----
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+Shreyansh+👋;Full+Stack+Developer+💻;MERN+Stack+Enthusiast+⚡;Open+Source+Contributor+🌟;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
 
-## 🚀 About Me
+</div>
 
-```yaml
-name: Shreyansh Bapna
-located_in: India
-current_job: Student & Developer
-education: 
-  - "Computer Science Engineering"
-  - "JECRC University"
-company: "Building cool projects"
-fields_of_interests:
-  - "Web Development"
-  - "Full Stack Development" 
-  - "Open Source"
-  - "Problem Solving"
-technical_background:
-  - "MERN Stack"
-  - "JavaScript/TypeScript"
-  - "Database Design"
-  - "System Design"
-currently_learning: ["Backend Architecture", "DevOps", "Cloud Computing"]
-2025_goals: ["Contribute to Open Source", "Build SaaS Products", "Learn new technologies"]
-hobbies: ["Coding", "Reading Tech Blogs", "Building Side Projects"]
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🚀 About Me
+
+```json
+{
+  "name": "Shreyansh Bapna",
+  "location": "India 🇮🇳",
+  "education": "Computer Science Engineering @ JECRC University",
+  "currentFocus": "Full Stack Development",
+  "techStack": ["JavaScript", "React", "Node.js", "MongoDB", "TypeScript"],
+  "currentlyLearning": ["Backend Architecture", "DevOps", "Cloud Computing"],
+  "2025Goals": ["Contribute to Open Source", "Build SaaS Products"],
+  "funFact": "I debug with console.log() and I'm proud of it! 😄"
+}
 ```
 
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | ⭐ Stars |
-|------------|----------------|---------------|----------|
-| [**College Portal**](https://github.com/ShreyanshBapna/College-Portal) | Complete college management system | MERN, Bootstrap | ![Stars](https://img.shields.io/github/stars/ShreyanshBapna/College-Portal?style=flat-square&color=yellow) |
-| [**SkillX**](https://github.com/InnoTechI/SkillX) | Skill development platform | React, Node.js | ![Stars](https://img.shields.io/github/stars/InnoTechI/SkillX?style=flat-square&color=yellow) |
-| [**Excalidraw Clone**](https://github.com/ShreyanshBapna/Excalidraw) | Collaborative drawing tool | JavaScript, Canvas API | ![Stars](https://img.shields.io/github/stars/ShreyanshBapna/Excalidraw?style=flat-square&color=yellow) |
-| [**JECRC ChatBot**](https://github.com/ankitsharma101/jecrc-chat-bot) | AI-powered college assistant | Python, NLP | ![Stars](https://img.shields.io/github/stars/ankitsharma101/jecrc-chat-bot?style=flat-square&color=yellow) |
-| [**Paytm Clone**](https://github.com/ShreyanshBapna/Paytm) | Digital payment platform | MERN, JWT | ![Stars](https://img.shields.io/github/stars/ShreyanshBapna/Paytm?style=flat-square&color=yellow) |
-
-</div>
+<br clear="both">
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**
+<br><br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+**Backend**
+<br><br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+**Database & Tools**
+<br><br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+### 🏆 Featured Projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyanshBapna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshBapna&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyanshBapna&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshBapna&theme=github-compact&hide_border=true&color=58a6ff)
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🏫 College Portal** | Complete college management system with student & admin panels | MERN, Bootstrap | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ShreyanshBapna/College-Portal) |
+| **🎯 SkillX** | Skill development platform for students | React, Node.js | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/InnoTechI/SkillX) |
+| **🎨 Excalidraw Clone** | Collaborative drawing tool like Excalidraw | JavaScript, Canvas API | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ShreyanshBapna/Excalidraw) |
+| **🤖 JECRC ChatBot** | AI-powered college assistant chatbot | Python, NLP | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/jecrc-chat-bot) |
+| **💳 Paytm Clone** | Digital payment platform replica | MERN, JWT Auth | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ShreyanshBapna/Paytm) |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Analytics
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShreyanshBapna&theme=algolia&no-frame=true&row=1&column=7)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyanshBapna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshBapna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyanshBapna&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyanshBapna&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Activity Graph
 
 <div align="center">
 
-![Snake animation](https://github.com/ShreyanshBapna/ShreyanshBapna/blob/output/github-contribution-grid-snake-dark.svg)
+[![Shreyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshBapna&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-bapna)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanshbapna@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyansh_bapna)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shreyansh_bapna)
-
-</div>
-
----
-
-## 💝 Support My Work
-
-<div align="center">
-
-If you like my work and want to support me, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shreyanshbapna)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://shreyanshbapna.github.io)
 
 </div>
 
@@ -156,10 +129,16 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 
 <div align="center">
 
-### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💫 *"First, solve the problem. Then, write the code."* – John Johnson
 
-**Thank you for visiting my profile! Feel free to reach out if you want to collaborate on something amazing! 🚀**
+<img src="https://komarev.com/ghpvc/?username=ShreyanshBapna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-![Visitor Count](https://profile-counter.glitch.me/ShreyanshBapna/count.svg)
+**Thanks for stopping by! Let's build something amazing together! 🚀**
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
